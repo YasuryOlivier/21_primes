@@ -1,0 +1,77 @@
+.fondo-edificio{
+	background-image: url("../img/background/city.jpg");
+	background-size: cover;
+	height: 500px;
+}
+.fondo-blanca{
+	background-color: white;
+	margin-bottom: 15px;
+	margin-top: 30px;
+}
+.menu-uno{
+	background-color: white;
+	text-decoration: none;
+	color: black;
+	width: 90px;
+	height: 30px;
+	margin: 10px;
+}
+hr{
+	width: 150px;
+	margin-top: 25px;
+	margin-left: 10px;
+	padding-left: 10px;
+	position: relative;
+	left: 90px;
+}
+.boton-dos{
+	background-color: black;
+	text-decoration: none;
+	color: white;
+	width: 120px;
+	height: 40px;
+	margin-left: 450px;
+	margin-bottom: 20px;
+	border:none;
+}
+.boton-tres{
+	background-color: transparent;
+	text-decoration: none;
+	color: white;
+	width: 120px;
+	height: 40px;
+	margin-left: 450px;
+	margin-bottom: 20px;
+}
+.abajo-uno{
+	margin-top: 120px;
+	margin-bottom: 40px;
+}
+.fondo-blanco{
+	background-color:white; 
+}
+.abajo{
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+.boton-cuatro{
+	background-color: black;
+	text-decoration: none;
+	color: white;
+	width: 250px;
+	height: 60px;	
+}
+.boton-cinco{
+	background-color: blue;
+	text-decoration: none;
+	color: white;
+	width: 250px;
+	height: 60px;	
+}
+.boton-seis{
+	background-color: gray;
+	text-decoration: none;
+	color: white;
+	width: 250px;
+	height: 60px;	
+}
